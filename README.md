@@ -3,4 +3,5 @@
 * Utilized FLood_Fill algorithm for implementing chain-discovering effect.
 * Command line gane.
 # Run
-* LINUX : gcc *.c -> ./a.out
+## LINUX
+* gcc *.c -> ./a.out
