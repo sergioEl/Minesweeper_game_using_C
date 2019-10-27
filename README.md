@@ -2,3 +2,6 @@
 * Minesweeper game developed by C
 * Utilized FLood_Fill algorithm for implementing chain-discovering effect.
 * Command line gane.
+# Run
+* LINUX
+** gcc *.c
